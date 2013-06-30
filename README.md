@@ -5,6 +5,7 @@
 ## General
 * [Web Platform Tools](http://webplatformtools.org/)
 * [The Toolbox](http://thetoolbox.cc/)
+* [Choose your Ipsum](http://idsgn.dropmark.com/107)
 
 ## JavaScript
 * [jquer.in](http://jquer.in/)
