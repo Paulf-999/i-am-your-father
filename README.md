@@ -2,6 +2,10 @@
 
 > A Collection of collections. 
 
+## General
+* [Web Platform Tools](http://webplatformtools.org/)
+* [The Toolbox](http://thetoolbox.cc/)
+
 ## JavaScript
 * [jquer.in](http://jquer.in/)
 * [Unheap](http://www.unheap.com/)
@@ -10,9 +14,13 @@
 * [JavaScript Libraries](http://javascriptlibraries.com/)
 
 
+## Ruby/Rails
+* [](http://rubygems.org/gems)
+* [Ruby Toolbox](https://www.ruby-toolbox.com/)
+
 ### TODOS
-* Include general collections
-* Include css showcases (?)
-* Include ruby/gems collections
+* ~~Include general collections~~
+* Include css showcases *(Guys, what do you think?)*
+* ~~Include ruby/gems collections~~
 * Include bootstrap widgets collections
 
