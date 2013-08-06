@@ -19,10 +19,3 @@
 ## Ruby/Rails
 * [Ruby Gems](http://rubygems.org/gems)
 * [Ruby Toolbox](https://www.ruby-toolbox.com/)
-
-### TODOS
-* ~~Include general collections~~
-* Include css showcases *(Guys, what do you think?)*
-* ~~Include ruby/gems collections~~
-* Include bootstrap widgets collections
-
