@@ -6,6 +6,7 @@
 * [Web Platform Tools](http://webplatformtools.org/)
 * [The Toolbox](http://thetoolbox.cc/)
 * [Choose your Ipsum](http://chooseyouripsum.com/)
+* [Meet the Ipsums](http://meettheipsums.com/)
 
 ## JavaScript
 * [jquer.in](http://jquer.in/)
