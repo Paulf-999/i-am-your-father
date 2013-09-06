@@ -1,6 +1,6 @@
 # I AM YOUR FATHER
 
-> A Collection of collections. 
+> A Collection of collections.
 
 ## General
 * [Web Platform Tools](http://webplatformtools.org/)
@@ -9,6 +9,7 @@
 * [Meet the Ipsums](http://meettheipsums.com/)
 
 ## JavaScript
+* [JavaScript OO](http://www.javascriptoo.com/)
 * [jquer.in](http://jquer.in/)
 * [Unheap](http://www.unheap.com/)
 * [JSDB.io](http://www.jsdb.io/)
