@@ -7,6 +7,7 @@
 * [The Toolbox](http://thetoolbox.cc/)
 * [Choose your Ipsum](http://chooseyouripsum.com/)
 * [Meet the Ipsums](http://meettheipsums.com/)
+* [Static Generators](http://staticsitegenerators.net/)
 
 ## JavaScript
 * [JavaScript OO](http://www.javascriptoo.com/)
@@ -16,7 +17,7 @@
 * [Microjs](http://microjs.com/#)
 * [JavaScript Libraries](http://javascriptlibraries.com/)
 
-
 ## Ruby/Rails
 * [Ruby Gems](http://rubygems.org/gems)
 * [Ruby Toolbox](https://www.ruby-toolbox.com/)
+
